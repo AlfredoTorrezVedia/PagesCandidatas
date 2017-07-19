@@ -1,0 +1,236 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	::1         localhost
+#   Direccion 127.0.0.1 establecida por defecto, sugerencia en prueba...
+127.0.0.1       localhost
+
+#Sitios de Redes Sociales
+255.255.255.0   badoo.com
+255.255.255.0   line.me
+255.255.255.0   plus.google.com
+255.255.255.0   soundcloud.com
+255.255.255.0   twitter.com
+255.255.255.0   vine.co
+255.255.255.0   web.whatsapp.com
+255.255.255.0   www.flickr.com
+255.255.255.0   www.hi5.com
+255.255.255.0   www.instagram.com
+255.255.255.0   www.skype.com
+255.255.255.0   www.snapchat.com
+255.255.255.0   www.tumblr.com
+255.255.255.0   www.viber.com
+255.255.255.0   www.wechat.com
+255.255.255.0   www.whatsapp.com
+255.255.255.0	webmessenger.msn.com 
+255.255.255.0	www.ebuddy.com 
+255.255.255.0	www.messengerfx.com 
+255.255.255.0	es-es.facebook.com 
+255.255.255.0	es-es.facebook.com 
+255.255.255.0	www.facebook.com 
+255.255.255.0	www.en-gb.facebook.com 
+255.255.255.0	en-gb.facebook.com 
+255.255.255.0	www.facebook.com
+255.255.255.0	es-es.facebook.com 
+255.255.255.0	es-la.facebook.com 
+255.255.255.0	www.gateway.edge.messenger.live.com 
+255.255.255.0	www.geo.messenger.services.live.com 
+255.255.255.0	geo.messenger.services.live.com
+255.255.255.0	webmessenger.msn.com 
+255.255.255.0	messenger.hotmail.com 
+255.255.255.0	msgr.dlservice.microsoft.com 
+255.255.255.0	messenger.msn.com 
+255.255.255.0	gateway.messenger.hotmail.com 
+255.255.255.0	www.youtube.com 
+255.255.255.0	youtube.com 
+255.255.255.0	www.facebook.com 
+255.255.255.0	facebook.com 
+255.255.255.0	www.facebook.com 
+255.255.255.0	facebook.com/login.php 
+255.255.255.0	www.hi5.com 
+255.255.255.0	www.twitter.com 
+255.255.255.0	www.youtube-espanol.blogspot.com 
+255.255.255.0	youtube-espanol.blogspot.com 
+255.255.255.0	msn2go.com 
+#End Redes Sociales
+
+255.255.255.0   accounts.spotify.com
+255.255.255.0   adv-legend.soargames.com
+255.255.255.0   agar.io
+255.255.255.0   animeflv.net
+255.255.255.0   archive.org
+255.255.255.0   army-men-rts.softonic.com
+255.255.255.0   as.com
+255.255.255.0   bajalo.org
+255.255.255.0   bajarjuegospcgratis.com
+255.255.255.0   bigthink.com
+255.255.255.0   blizzpaste.com
+255.255.255.0   bloghorror.com
+255.255.255.0   buscar.lanacion.com.ar
+255.255.255.0   careers.blizzard.com
+255.255.255.0   cines.com
+255.255.255.0   colorcodedlyrics.com
+255.255.255.0   comic.playoverwatch.com
+255.255.255.0   comingsoon.vevo.com
+255.255.255.0   corp.kaltura.com
+255.255.255.0   cuenta.99.com
+255.255.255.0   current.com
+255.255.255.0   domainhub.com
+255.255.255.0   elgenero.com
+255.255.255.0   eljuegomasdificildelmundo.co
+255.255.255.0   eljuegomasdificildelmundo.com
+255.255.255.0   es.akinator.com
+255.255.255.0   es.ccm.net
+255.255.255.0   es.gizmodo.com
+255.255.255.0   es.jango.com
+255.255.255.0   es.savefrom.net
+255.255.255.0   es.zapmeta.ws
+255.255.255.0   eu.battle.net
+255.255.255.0   ext.ask.com
+255.255.255.0   flowhot.me
+255.255.255.0   flowhot.net
+255.255.255.0   free.gamingwonderland.com
+255.255.255.0   games.njoyapps.com
+255.255.255.0   horoscopo.abc.es
+255.255.255.0   jdownloader.org
+255.255.255.0   kiz10.com
+255.255.255.0   larepublica.pe
+255.255.255.0   leomanga.com
+255.255.255.0   makusi.tv
+255.255.255.0   marvelkids.disneylatino.com
+255.255.255.0   mimp3.eu
+255.255.255.0   mp3teca.com
+255.255.255.0   musicaq.biz
+255.255.255.0   muzikfury.thewhizmarketing.com
+255.255.255.0   my.filesfetcher.com
+255.255.255.0   nellygames.com
+255.255.255.0   newtabtv.com
+255.255.255.0   onclkds.com
+255.255.255.0   photobucket.com
+255.255.255.0   play.google.com
+255.255.255.0   play.google.com/store
+255.255.255.0   play.google.com/store/music
+255.255.255.0   playcab.com
+255.255.255.0   playoverwatch.com
+255.255.255.0   rata.io
+255.255.255.0   search.moviecarpet.com
+255.255.255.0   search.ozby.com
+255.255.255.0   sliter.io
+255.255.255.0   slither.io
+255.255.255.0   solojuegosmentales.com
+255.255.255.0   spotify.com
+255.255.255.0   toroadvertisingmedia.com
+255.255.255.0   totaljerkface.com
+255.255.255.0   trome.pe
+255.255.255.0   tubidy.mobi
+255.255.255.0   tvplusnewtab.com
+255.255.255.0   us.battle.net
+255.255.255.0   vevo.com
+255.255.255.0   video.bajaryoutube.com
+255.255.255.0   videodownloader.ummy.net
+255.255.255.0   vimeo.com
+255.255.255.0   wwitv.com
+255.255.255.0   www.a10.com
+255.255.255.0   www.adnradio.cl
+255.255.255.0   www.animeflv.net
+255.255.255.0   www.animeyt.tv
+255.255.255.0   www.animeyt.tv
+255.255.255.0   www.aol.com
+255.255.255.0   www.arestotal.com
+255.255.255.0   www.bet365.com
+255.255.255.0   www.bhphotovideo.com
+255.255.255.0   www.billboard.com
+255.255.255.0   www.blinkx.com
+255.255.255.0   www.blizzboygames.net
+255.255.255.0   www.buenamusicagratis.com
+255.255.255.0   www.cartoonnetwork.com
+255.255.255.0   www.cartoonnetwork.com.ar
+255.255.255.0   www.cc.com
+255.255.255.0   www.clicksgear.com
+255.255.255.0   www.compucalitv.com
+255.255.255.0   www.dailymotion.com
+255.255.255.0   www.dailymotion.com/mx
+255.255.255.0   www.descargaryoutube.com
+255.255.255.0   www.el-juego-mas-dificil-del-mundo.com
+255.255.255.0   www.emule-project.net
+255.255.255.0   www.enviciate.com
+255.255.255.0   www.estabulla.com
+255.255.255.0   www.facebook.com
+255.255.255.0   www.fandejuegos.co.ve
+255.255.255.0   www.foxmusicagratis.com
+255.255.255.0   www.friv.com
+255.255.255.0   www.fullvicio.biz
+255.255.255.0   www.fullvicio.com
+255.255.255.0   www.fullypcgames.net
+255.255.255.0   www.girlg.com
+255.255.255.0   www.go90.com
+255.255.255.0   www.goomusica.com
+255.255.255.0   www.hulu.com
+255.255.255.0   www.imitable.com
+255.255.255.0   www.isladejuegos.es
+255.255.255.0   www.juegos.com
+255.255.255.0   www.juegosdechicas.com
+255.255.255.0   www.juegosdiarios.com
+255.255.255.0   www.juegosfriv2017.net
+255.255.255.0   www.juegosgratisxd.com
+255.255.255.0   www.juegos-gratis-ya.com
+255.255.255.0   www.juegosipo.com
+255.255.255.0   www.juegos-mentales.com
+255.255.255.0   www.kizi.com
+255.255.255.0   www.koi-nya.net
+255.255.255.0   www.laprensa.hn
+255.255.255.0   www.lastmusica.com
+255.255.255.0   www.letras.com
+255.255.255.0   www.lifedaily.com
+255.255.255.0   www.lunajuegos.com
+255.255.255.0   www.macrojuegos.com
+255.255.255.0   www.metacafe.com
+255.255.255.0   www.miniclip.com
+255.255.255.0   www.minijuegos.com
+255.255.255.0   www.musica.com
+255.255.255.0   www.musicaeu.com
+255.255.255.0   www.musicasvip.com
+255.255.255.0   www.music-group.com
+255.255.255.0   www.my-answers.com
+255.255.255.0   www.najox.com
+255.255.255.0   www.nickelodeon.es
+255.255.255.0   www.nuevaq.me
+255.255.255.0   www.oyun.se
+255.255.255.0   www.oyunlar1.net
+255.255.255.0   www.paisdelosjuegos.com.pa
+255.255.255.0   www.paydiamond.com
+255.255.255.0   www.pelisplus.com
+255.255.255.0   www.peteranswers.com
+255.255.255.0   www.playthefungames.com
+255.255.255.0   www.playxn.com
+255.255.255.0   www.pop.games
+255.255.255.0   www.rockstargames.com
+255.255.255.0   www.sintomix.com
+255.255.255.0   www.spotify.com
+255.255.255.0   www.stickam.com
+255.255.255.0   www.ted.com
+255.255.255.0   www.tumangaonline.com
+255.255.255.0   www.univision.com
+255.255.255.0   www.ustream.tv
+255.255.255.0   www.veoh.com
+255.255.255.0   www.wepa.com.co
+255.255.255.0   www.xenogames.net
+255.255.255.0   www.youtube.com
+255.255.255.0   www.youtube-mp3.org
+255.255.255.0   xploitsmarvinclub.blogspot.com
